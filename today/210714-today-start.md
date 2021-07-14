@@ -2,6 +2,14 @@
 
 ## TIL
 
+### git
+
+[210714-git-notion.md](https://github.com/sosoYim/TIL/blob/main/git/210714-git-notion.md)
+
+### terminal
+
+[210714-07-14-terminal-cli-vi.md](https://github.com/sosoYim/TIL/blob/main/terminal/210714-07-14-terminal-cli-vi.md)
+
 ## Done
 
 1. TIL 깃허브 레퍼지토리 만들기
