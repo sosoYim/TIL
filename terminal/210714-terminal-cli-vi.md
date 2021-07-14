@@ -1,4 +1,4 @@
-# 210714-07-14-terminal-cli-vi.md
+# 210714-terminal-cli-vi.md
 
 ## CLI 명령어
 
