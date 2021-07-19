@@ -6,7 +6,7 @@
 
 [210718-etc-browser-js.md](https://github.com/sosoYim/TIL/blob/main/js/210718-etc-browser-js.md)
 
-개발자 90%가 모르는 자바스크립트 동작원리 (Stack, Queue, event loop)
+[개발자 90%가 모르는 자바스크립트 동작원리 (Stack, Queue, event loop)](https://www.youtube.com/watch?v=v67LloZ1ieI)
 
 ## Done
 

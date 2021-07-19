@@ -1,4 +1,4 @@
-# 217016-today-finallyFRIDAY.md
+# 210716-today-finallyFRIDAY.md
 
 ## TIL
 
