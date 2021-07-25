@@ -1,8 +1,8 @@
-# 210729-today-jsWeek2.md
+# 210720-today-jsWeek2.md
 
 ## TIL
 
-je 배열 내장 함수
+js 배열 내장 함수
 
 [foreach, map](https://github.com/sosoYim/TIL/blob/main/js/210720-js-arFn-foreach-map.md)
 
