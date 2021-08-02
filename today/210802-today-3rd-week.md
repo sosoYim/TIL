@@ -6,11 +6,20 @@
 
 [DFS기본 - 순열,중복순열,조합](https://github.com/sosoYim/TIL/blob/main/algorithm/210802-algo-순열.md)
 
+### js
+
+```jsx
+"use strict";
+```
+
+[use strict 모드](https://github.com/sosoYim/TIL/blob/main/js/210802-js-use-strict.md)
+
 ## Done
 
 1. 지난 주 알고리즘 복습 (4. 슬라이딩 윈도우, two pointers Algorithm)
 2. Algo 예습 (문제 파악)
 3. 오늘 배운 것 노션에 정리
+4. 드림코딩 엘리 js 2편 보기
 
 ## Todo
 
